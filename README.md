@@ -6,7 +6,7 @@
 
 ## 图片
 
-![image](http://github.com/Harryzhou1002/Demo/raw/master/images/icon.png)
+![看看是什么](http://github.com/Harryzhou1002/Demo/raw/master/images/icon.png)
 
 ## 结果
 
